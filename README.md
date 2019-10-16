@@ -1,5 +1,9 @@
-Guice
+Syrup 
 ====
+
+Syrup is a tasty fork of Guice, that makes use of the [Invoke API](https://docs.oracle.com/javase/8/docs/api/java/lang/invoke/package-summary.html). 
+
+---
 
 **Latest release: [4.2.2](https://github.com/google/guice/wiki/Guice422)**
 
